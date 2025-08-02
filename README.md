@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# ShareGo-App-Frontend
+A React Native frontend for ShareGo — a ride-sharing app that connects drivers and riders across Pakistan.
+>>>>>>> 53b360bcfc035b3fd9685f8ba5a8c194e0243cd4
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
