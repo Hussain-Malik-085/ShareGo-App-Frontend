@@ -73,6 +73,7 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 
+android/gradle/
 android/gradle/wrapper/gradle-8.10.2-all.zip
 android/gradle/wrapper/gradle-8.10.2/lib/kotlin-compiler-embeddable-1.9.24.jar
 
